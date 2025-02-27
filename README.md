@@ -8,6 +8,7 @@
  yarn create "react-app" "la-maison-jungle"
  npx create-react-app "la-maison-jungle" 
  yarn start
+ other
   
 # Getting Started with Create React App
 
