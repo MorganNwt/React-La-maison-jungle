@@ -1,3 +1,14 @@
+/*** Commandes utiles ***/
+ Set-ExecutionPolicy Unrestricted -Scope CurrentUser --Pour éxécuter les script
+ npm install -g npm 
+ npm install -g npm@11.1.0  
+ yarn cache clean --all 
+ npm uninstall -g yarn   
+ npm install -g yarn
+ yarn create "react-app" "la-maison-jungle"
+ npx create-react-app "la-maison-jungle" 
+ yarn start
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
