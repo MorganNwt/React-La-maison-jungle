@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import '../styles/Footer.css'
+import '../styles/footer.css'
 
 function Footer(){
     const [inputValue, setInputValue] = useState('')
